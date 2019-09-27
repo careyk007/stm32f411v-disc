@@ -22,7 +22,7 @@ This adds support for building for the Cortex-M4F processor
 1. Instantiate the template.
 
 ``` console
-$ git clone https://github.com/careyk007/stm32f411-disco <directory_name>
+$ git clone https://github.com/careyk007/stm32f411v-disc <directory_name>
 $ cd <directory_name>
 ```
 
